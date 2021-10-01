@@ -1,0 +1,14 @@
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.AssemblyReference.cache
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\obj\Debug\netcoreapp3.1\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
